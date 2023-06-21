@@ -1,0 +1,67 @@
+.body{
+	background:black
+}
+h2{
+	color:white;
+	font-family:arial;
+	text-align:center;
+	font-size:40px;
+}
+	
+.about{
+	width: 100%;
+	padding: 70px 0 px;
+	background:black;
+}
+
+.about img{
+	height: auto;
+	width: 420;
+}
+
+.about text{
+	width: 550px;
+}
+
+.main{
+	width: 1130px;
+	max-width: 95%;
+	margin: 0 auto;
+	display: flex;
+	justify-content: space-around;
+}
+
+.about-text h5{
+	color: white;
+	font-size: 25px;
+	padding:10px;
+	text-transform: capitalize;
+	margin-bottom: 25px;
+	letter-spacing:2px;
+}
+.about-text p{
+	color:white;
+	letter-spacing: 1px;
+	padding:10px;
+	line-height: 28px;
+	font-size: 20px;
+	margin-bottom: 45px;
+}
+
+.about-text p{
+	color:white;
+	letter-spacing: 1px;
+	padding:10px;
+	line-height: 28px;
+	font-size: 15px;
+	margin-bottom: 45px;
+}
+
+p{
+	color:white;
+	letter-spacing: 1px;
+	padding:5px;
+	line-height: 28px;
+	font-size: 18px;
+	margin-bottom: 30px;
+}
